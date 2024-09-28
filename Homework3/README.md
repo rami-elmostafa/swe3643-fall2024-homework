@@ -3,7 +3,7 @@
 1. Configured Playwright
 2. Verified Operation with a Sample Playwright Test
    Sample Playwright TEST
-  ![]("C:\Users\ramie\Pictures\Screenshots\Screenshot 2024-09-28 165353.png")
+    ![]("C:\Users\ramie\Desktop\SFTWR TSTING QA\swe3643-fall2024-homework\Homework3\ScreenShots\Screenshot 2024-09-28 165050.png") 
    JETBRAINS TEST RUNNER SHOWING SUCCESS OF Sample Playwright
    ![]("C:\Users\ramie\Pictures\Screenshots\Screenshot 2024-09-28 165255.png")
 3. Wrote an E2E Test using the Playwright Test Generator
